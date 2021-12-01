@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p {
+    color: blueviolet;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+  }
